@@ -17,4 +17,5 @@ Cyclistic is a bike-share program in Chicago aiming to convert casual riders int
 
 
 ## Links & Deliverables
+To read the full analysis and see all the steps applied, see my kaggle notebook
 * **Kaggle Notebook:** (https://www.kaggle.com/code/muhammadhash1r1/notebookbf3b4e4398)
